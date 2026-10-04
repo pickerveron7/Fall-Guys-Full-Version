@@ -243,4 +243,4 @@ This repository serves as the official landing page for **Fall Guys**. The softw
 **Get the most recent version of Fall Guys today!**
 
 ---
-**Last updated:** 2026-10-03 23:33:43 UTC
+**Last updated:** 2026-10-04 04:45:21 UTC
